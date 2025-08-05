@@ -1,0 +1,12 @@
+names:
+  0: open
+  1: short
+  2: mousebite
+  3: spur
+  4: pin-hole
+  5: spurious_copper
+nc: 6
+path: C:\Users\nanda\Desktop\pcb_defect_detector\DeepPCB
+test: images/test
+train: images/train
+val: images/val
